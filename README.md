@@ -41,7 +41,7 @@ I'm passionate about data analysis, artificial intelligence, machine learning an
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+ <img src="https://skillicons.dev/icons?i=python,html,css" />
 </p>
 
 ### Data Science & Machine Learning
