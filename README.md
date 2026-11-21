@@ -2,11 +2,10 @@
 <div align="center">
 
 # Hi, I'm Asmae Dahou 👋
-
-### Data Science Student | Data Engineering | Machine Learning
+## Data Science Student | Data Engineering | Machine Learning & Artificial Intelligence Enthusiast
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Data+Science+%26+Engineering;Machine+Learning+Enthusiast;Turning+Data+into+Insights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Data+Science+Student;Data+Engineering;Machine+Learning+Enthusiast;Turning+Data+into+Insights" />
 </p>
 
 <p>
@@ -40,21 +39,25 @@ I'm passionate about data analysis, artificial intelligence, machine learning an
 ## 🛠️ Technical Skills
 
 ### Programming Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### Data Science & Machine Learning
+
 <p>
   <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,matplotlib" />
 </p>
 
 ### Databases & Big Data
+
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,hadoop,docker" />
 </p>
 
 ### Data Visualization & Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=powerbi,git,github,vscode,jupyter" />
 </p>
@@ -64,42 +67,73 @@ I'm passionate about data analysis, artificial intelligence, machine learning an
 ## 🚀 Featured Projects
 
 ### 🏠 AI Real Estate Assistant
-- Real estate price prediction for the Moroccan market.
+
+An intelligent real estate solution designed for the Moroccan market.
+
+- Real estate price prediction.
 - Property recommendation based on user criteria.
 - Price forecasting using Prophet.
 - Intelligent chatbot for real estate assistance.
 
-### 📊 Food Product Price Analysis
-- Big Data analysis of food product prices.
-- Data processing and exploration.
-- Identification of price trends and patterns.
+### 📊 Amazon Data Analysis
 
-### 📈 Amazon Data Analysis
+A Business Intelligence project using Power BI.
+
 - Data analysis using Power BI.
 - Interactive dashboards and visualizations.
-- Business insights from sales data.
+- Business insights from Amazon data.
 
 ### 💼 Intelligent Job Matching System
+
+An intelligent system designed to connect candidates with suitable job opportunities.
+
 - Matching candidate CVs with job offers.
 - Analysis of candidate skills and qualifications.
-- Intelligent job recommendation.
-
-### 🎮 Python OOP Game
-- Object-oriented programming with Python.
-- Classes, objects, methods and game logic.
+- Intelligent job recommendations.
 
 ---
 
 ## 💼 Professional Experience
 
-**Internship – Commune**  
+### Internship – Commune
 📅 August 2025
 
-**Internship – Orchid Island**  
+- Internship experience in a local public administration.
+
+### Internship – Orchid Island
 📅 April – May 2026
-- Data collection and Web Scraping.
+
+- Data collection and extraction using Web Scraping.
 - Data organization and preparation.
 - Use of Excel and other IT tools.
+
+---
+
+## 🎓 Education
+
+**Specialized Technician Diploma in Data Engineering**
+
+École Supérieure de Technologie de Kelaâ des Sraghna.
+
+**Currently studying Data Science**
+
+École Supérieure de Technologie de Kelaâ des Sraghna.
+
+**Baccalaureate in Physical Sciences – French Option**
+
+2024 | Lycée Qualifiant Errahali El Farouq.
+
+---
+
+## 💡 Soft Skills
+
+- Analytical Thinking
+- Problem Solving
+- Teamwork
+- Adaptability
+- Autonomy
+- Continuous Learning
+- Time Management
 
 ---
 
