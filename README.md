@@ -1,180 +1,189 @@
 
-<div align="center">
+<!-- ================= HEADER ================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:164E63&height=180&section=header&text=ASMAE%20DAHOU&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=DATA%20SCIENCE%20%7C%20DATA%20ENGINEERING%20%7C%20AI&descSize=14&descAlignY=68" width="100%" />
-
-<br/>
-
-**Data Science Student | Data Engineering | Machine Learning**
-
-Turning data into insights and building intelligent solutions.
-
-<br/>
-
-<a href="mailto:asmaedahou8@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-0891B2?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/adahou4784-byte">
-  <img src="https://img.shields.io/badge/GitHub-Profile-334155?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## ABOUT ME
-
-I'm **Asmae Dahou**, a Data Science student with a background in Data Engineering.
-
-I am interested in transforming raw data into meaningful insights through data analysis, machine learning and artificial intelligence.
-
-My main interests are:
-
-- Data Science and Predictive Analytics
-- Artificial Intelligence and Machine Learning
-- Data Engineering and Big Data
-- Web Scraping and Data Collection
-- Data Visualization and Business Intelligence
-
-My objective is to develop innovative, data-driven solutions to real-world problems.
-
----
-
-## TECHNOLOGIES & TOOLS
-
-**Programming & Web**
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,html,css&perline=8" height="34"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2742,50:176B87,100:27A9B5&height=220&section=header&text=ASMAE%20DAHOU&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=DATA%20SCIENCE%20%7C%20DATA%20ENGINEERING%20%7C%20ARTIFICIAL%20INTELLIGENCE&descSize=13&descAlignY=62&descColor=EAF4F8" width="100%" />
 </p>
 
-**Data Science & Machine Learning**
+<h3 align="center">
+  Building intelligent solutions through data.
+</h3>
 
-<p>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,matplotlib&perline=8" height="34"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Morocco-176B87?style=flat-square" />
+  <img src="https://img.shields.io/badge/Field-Data%20Science-27A9B5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Interest-AI-176B87?style=flat-square" />
 </p>
 
-**Databases & Big Data**
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,hadoop,docker&perline=8" height="34"/>
-</p>
-
-**Development & Visualization**
-
-<p>
-<img src="https://skillicons.dev/icons?i=powerbi,git,github,vscode,jupyter&perline=8" height="34"/>
+<p align="center">
+  <i>Transforming data into insights, and insights into intelligent solutions.</i>
 </p>
 
 ---
 
-## SELECTED PROJECTS
+## 01 — ABOUT ME
+
+Hello! I'm **Asmae Dahou**, a Data Science student and Data Engineering enthusiast.
+
+I am passionate about exploring data, developing intelligent applications, and using technology to solve real-world problems.
+
+My interests include:
+
+- Data analysis and visualization.
+- Machine Learning and Artificial Intelligence.
+- Data Engineering and Big Data.
+- Predictive modeling and intelligent systems.
+- Building practical, data-driven applications.
+
+I enjoy learning new technologies, experimenting with ideas, and turning complex data into meaningful information.
+
+---
+
+## 02 — TECHNICAL SKILLS
+
+### Programming & Web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css&theme=light" height="42"/>
+</p>
+
+### Data Science & Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-176B87?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pandas-176B87?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scikit--learn-176B87?style=flat-square" />
+  <img src="https://img.shields.io/badge/Matplotlib-176B87?style=flat-square" />
+  <img src="https://img.shields.io/badge/Power%20BI-27A9B5?style=flat-square" />
+</p>
+
+### Databases & Big Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,hadoop,docker&theme=light" height="42"/>
+</p>
+
+### Tools & Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" height="42"/>
+  <img src="https://img.shields.io/badge/Jupyter-176B87?style=flat-square" />
+</p>
+
+---
+
+## 03 — FEATURED PROJECTS
 
 ### 01. AI Real Estate Assistant
 
-**Artificial Intelligence · Machine Learning · Predictive Analytics**
+**Artificial Intelligence · Machine Learning · Data Science**
 
-An intelligent real estate decision-support solution designed for the Moroccan market.
+An intelligent assistant designed for the Moroccan real estate market.
 
 - Real estate price prediction.
 - Property recommendation based on user criteria.
 - Price forecasting using Prophet.
-- Intelligent chatbot for real estate assistance.
-
----
+- Conversational chatbot for real estate assistance.
 
 ### 02. Amazon Data Analysis
 
-**Power BI · Data Analysis · Business Intelligence**
+**Data Analysis · Power BI · Data Visualization**
 
-A data analysis project focused on transforming Amazon data into meaningful business insights.
+A data analysis project focused on exploring Amazon-related data and extracting useful business insights.
 
-- Data exploration and analysis.
+- Data exploration and preparation.
 - Interactive Power BI dashboards.
 - Identification of trends and patterns.
-- Business insights through visualization.
-
----
+- Visualization of key performance indicators.
 
 ### 03. Intelligent Job Matching System
 
-**Python · Artificial Intelligence · Recommendation Systems**
+**Python · Data Processing · Artificial Intelligence**
 
-An intelligent recruitment solution designed to connect candidates with relevant job opportunities.
+A system designed to improve recruitment by matching candidate profiles with job opportunities.
 
-- CV analysis and skill extraction.
-- Matching candidate profiles with job offers.
-- Identification of relevant qualifications.
-- Intelligent job recommendations.
-
----
-
-## EDUCATION
-
-**Specialized Technician Diploma in Data Engineering**
-
-École Supérieure de Technologie de Kelaâ des Sraghna
-
-**Data Science Studies**
-
-École Supérieure de Technologie de Kelaâ des Sraghna
-
-**Baccalaureate in Physical Sciences – French Option**
-
-2024 · Lycée Qualifiant Errahali El Farouq
+- CV analysis and information extraction.
+- Identification of candidate skills.
+- Matching CV profiles with job requirements.
+- Job recommendations based on compatibility.
 
 ---
 
-## PROFESSIONAL EXPERIENCE
+## 04 — PROFESSIONAL EXPERIENCE
 
-**Commune — Internship**
+### Commune — Internship
 
-August 2025
+**August 2025**
 
-Professional internship in a local public administration.
+First professional internship in a public administration environment.
 
-**Orchid Island — Internship**
+### Orchid Island — Internship
 
-April – May 2026
+**April – May 2026**
 
 - Data collection and extraction using Web Scraping.
-- Data organization and preparation.
-- Use of Excel and other IT tools.
+- Use of Excel and digital tools.
+- Organization and preparation of collected data.
+- Practical discovery of data-related workflows.
 
 ---
 
-## SOFT SKILLS
+## 05 — EDUCATION
 
-Analytical Thinking · Problem Solving · Teamwork · Adaptability · Autonomy · Continuous Learning · Time Management
+**Technicienne Spécialisée en Ingénierie des Données**
+
+École Supérieure de Technologie de Kelaâ des Sraghna
+
+**Bachelor / Studies in Data Science**
+
+École Supérieure de Technologie de Kelaâ des Sraghna
+
+**Baccalauréat — Sciences Physiques, Option Français**
+
+Lycée Qualifiant Errahali El Farouq · 2024
 
 ---
 
-## CURRENT FOCUS
+## 06 — SOFT SKILLS
 
-- Improving Machine Learning skills.
-- Exploring advanced Big Data technologies.
-- Developing intelligent AI applications.
-- Building practical Data Science projects.
+- Analytical thinking
+- Problem solving
+- Teamwork
+- Adaptability
+- Autonomy
+- Continuous learning
 
 ---
 
-## CONTACT
+## 07 — CURRENT FOCUS
 
-<div align="center">
+I am currently developing my knowledge and practical experience in:
 
-<a href="mailto:asmaedahou8@gmail.com">
-<img src="https://img.shields.io/badge/Email-0891B2?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/adahou4784-byte">
-<img src="https://img.shields.io/badge/GitHub-334155?style=flat-square&logo=github&logoColor=white"/>
-</a>
+- Machine Learning and predictive analytics.
+- Data visualization and business intelligence.
+- Big Data technologies.
+- Data extraction and processing.
+- Artificial Intelligence applications.
 
-<br/><br/>
+My goal is to build useful, innovative, and data-driven solutions.
 
-**Open to collaborations, internships and learning opportunities.**
+---
 
-*Turning Data into Intelligence.*
+## 08 — LET'S CONNECT
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:164E63,100:0F172A&height=90&section=footer" width="100%"/>
+<p align="center">
+  <a href="mailto:asmaedahou8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-176B87?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/adahou4784-byte">
+    <img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-27A9B5?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <i>DATA → INSIGHTS → INTELLIGENCE</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:27A9B5,50:176B87,100:0F2742&height=120&section=footer" width="100%" />
+</p>
