@@ -206,7 +206,7 @@ Professional internship in a local public administration.
 
 **Open to learning opportunities, collaborations and innovative projects.**
 
-### 💙 Turning Data into Intelligence. Building the Future with AI.
+###  Turning Data into Intelligence. Building the Future with AI.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:164E63,100:0F172A&height=120&section=footer" width="100%" />
 
